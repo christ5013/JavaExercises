@@ -241,7 +241,7 @@ public class JavaCollectionExercises {
         }
         
         System.out.println("Exercise number 8:");
-        System.out.println("Count map data that has a key of name: " +counter);
+        System.out.println("Count map data that has a key starts with name: " +counter);
     }
     
      
